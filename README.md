@@ -1,9 +1,10 @@
-#Clicky Game
+# Clicky Game
 ###### Play a memory game! See how many points you can accumulate by not clicking the same character twice. 
 
-##Technology:
-*React 
-*javaScript
-*Node
+## Technology:
+* React 
+* JavaScript
+* NodeJS
 
-https://clicky410.herokuapp.com/
+##### Please view live site at https://clicky410.herokuapp.com/
+##### Contributor: Addis Casco
